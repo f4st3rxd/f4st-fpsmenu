@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    text-decoration: none;
+    list-style: none;
+    
+}
+
+body {
+    /* opacity: 0.99; */
+}
+
+@font-face {
+    font-family: "Regular";
+    src: url('fonts/Gilroy-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Medium";
+    src: url('fonts/Gilroy-Medium.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
