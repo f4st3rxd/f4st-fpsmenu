@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
-author 'F4 Studio'
-description 'F4 Studio - FPS Menu'
+author 'f4st3r'
+description 'FPS Menu'
 version '1.0.0'
 lua54 'yes'
 
